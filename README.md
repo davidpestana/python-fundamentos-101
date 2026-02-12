@@ -1,4 +1,3 @@
-Perfecto — entonces lo orientamos 100% a **fork + Codespaces**, sin instalación local.
 # 🐍 Python Fundamentos 101
 
 Curso práctico completo de Python enfocado en fundamentos sólidos y aprendizaje intensivo mediante notebooks interactivos.
